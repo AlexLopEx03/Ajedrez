@@ -1,4 +1,4 @@
-![EN](https://flagcdn.com/w20/gb.png) [English version](https://github.com/AlexLopEx03/MaestroAjedrez/blob/main/README.en.md) of this readme
+![EN](https://flagcdn.com/w20/gb.png) [English version](https://github.com/AlexLopEx03/Ajedrez/blob/main/README.en.md) of this readme
 
 <div align="center">
   <h1>Ajedrez</h1>
