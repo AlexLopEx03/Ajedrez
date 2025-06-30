@@ -15,9 +15,9 @@ Chess game against an AI with adjustable difficulty.
   
 ### Technologies used
 
-| Vue | Vuetify | Vite |
-|-----|---------|------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="80"/> | <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg" width="80"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="80"/> |
+| Vue | Vuetify |
+|-----|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="80"/> | <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg" width="80"/> |
 
 </div>
 
@@ -26,12 +26,11 @@ Chess game against an AI with adjustable difficulty.
 > - **Vue**: A progressive and declarative JavaScript frontend framework.
 > 
 > - **Vuetify**: A UI component library for Vue based on Material Design.
->
-> - **Vite**: An ultra-fast web development and build tool, created by the authors of Vue.
 
 > Other libraries and dependencies:
 > - Chess.js: A library for handling internal chess logic, managing game state and most move validations.
 > - Pinia: A Vue library for global state management.
+> - Vite: An ultra-fast web development and build tool, created by the authors of Vue.
 > - Vite-plugin-pwa: A Vite tool that simplifies the creation of Progressive Web Apps (PWAs).
 
 ---
