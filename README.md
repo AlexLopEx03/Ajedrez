@@ -15,9 +15,9 @@ Juego de ajedrez contra IA con dificultad regulable.
   
 ### Tecnologías utilizadas
 
-| Vue | Vuetify | Vite |
-|-----|---------|------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="80"/> | <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg" width="80"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="80"/> |
+| Vue | Vuetify |
+|-----|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="80"/> | <img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg" width="80"/> |
 
 </div>
 
@@ -26,12 +26,11 @@ Juego de ajedrez contra IA con dificultad regulable.
 > - **Vue**: Framework de frontend de JavaScript, con un enfoque progresivo y declarativo.
 > 
 > - **Vuetify**: Librería de componentes de UI para Vue, basada en Material Design.
->
-> - **Vite**: Herramienta de desarrollo y empaquetador web ultrarápido, creado por los autores de Vue.
 
 > Otras librerías y dependencias:
 > - Chess.js: Librería para el manejo de lógica interna de ajedrez, gestiona el estado de la partida y gran parte de las validaciones.
 > - Pinia: Librería de Vue para el manejo de estados globales.
+> - Vite: Herramienta de desarrollo y empaquetador web ultrarápido, creado por los autores de Vue.
 > - Vite-plugin-pwa: Herramienta de Vite para facilitar la creación de Progressive Web Apps (PWA's).
 
 ---
