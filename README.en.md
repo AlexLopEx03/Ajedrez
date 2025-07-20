@@ -94,5 +94,4 @@ stockfish.onmessage = (event) => {
 
 ---
 
-## Give a star ⭐ if you like the project 🙏
-If you have any questions or comments about the project, you can direct them to the Discussions section.
+#### If you have any questions or comments about the project, you can direct them to the Discussions section.
